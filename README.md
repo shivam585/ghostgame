@@ -1,1 +1,1 @@
-# ghostgame
+# bullet-game
